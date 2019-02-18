@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pool Game", "Pool Game.vcxproj", "{1E177E31-4829-452A-ACB6-44C0C127E77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E177E31-4829-452A-ACB6-44C0C127E77A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E177E31-4829-452A-ACB6-44C0C127E77A}.Debug|Win32.Build.0 = Debug|Win32
+		{1E177E31-4829-452A-ACB6-44C0C127E77A}.Release|Win32.ActiveCfg = Release|Win32
+		{1E177E31-4829-452A-ACB6-44C0C127E77A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A2A9C3-1D9A-4749-A980-C2DA99551818}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+Easy Course II
+begin_hole
+Room to Room I
+cushion -1.9 1.3 -1.9 -0.5
+cushion -1.9 -0.5 -1.5 -0.5
+cushion -1.5 -0.5 -1.5 -1.5
+cushion -1.5 -1.5 -2.5 -1.5
+cushion -2.5 -1.5 -2.5 -0.5
+cushion -2.5 -0.5 -2.1 -0.5
+cushion -2.1 -0.5 -2.1 1.5
+cushion 2.1 1.5 2.1 -0.5
+cushion 2.1 -0.5 2.5 -0.5
+cushion 2.5 -0.5 2.5 -1.5
+cushion 2.5 -1.5 1.5 -1.5
+cushion 1.5 -1.5 1.5 -0.5
+cushion 1.5 -0.5 1.9 -0.5
+cushion 1.9 -0.5 1.9 1.3
+cushion 1.9 1.3 -1.9 1.3
+cushion -2.1 1.5 2.1 1.5
+start -2 -1
+cup 2 -1
+end_hole
+begin_hole
+Room Bend Room
+cushion -1.9 1.3 -1.9 -0.5
+cushion -1.9 -0.5 -1.5 -0.5
+cushion -1.5 -0.5 -1.5 -1.5
+cushion -1.5 -1.5 -2.5 -1.5
+cushion -2.5 -1.5 -2.5 -0.5
+cushion -2.5 -0.5 -2.1 -0.5
+cushion -2.1 -0.5 -2.1 1.5
+cushion 2.1 1.5 2.1 -0.5
+cushion 2.1 -0.5 2.5 -0.5
+cushion 2.5 -0.5 2.5 -1.5
+cushion 2.5 -1.5 1.5 -1.5
+cushion 1.5 -1.5 1.5 -0.5
+cushion 1.5 -0.5 1.9 -0.5
+cushion 1.9 -0.5 1.9 1.3
+cushion -2.1 1.5 0 1
+cushion 0 1 2.1 1.5
+cushion 1.9 1.3 0 0.8
+cushion 0 0.8 -1.9 1.3
+start -2 -1
+cup 2 -1
+end_hole
+begin_hole
+Room to Room II
+cushion -1.9 1.3 -1.9 -0.5
+cushion -1.9 -0.5 -1.5 -0.5
+cushion -1.5 -0.5 -1.5 -1.5
+cushion -1.5 -1.5 -2.5 -1.5
+cushion -2.5 -1.5 -2.5 -0.5
+cushion -2.5 -0.5 -2.1 -0.5
+cushion -2.1 -0.5 -2.1 1.5
+cushion 2.1 1.5 2.1 -0.5
+cushion 2.1 -0.5 2.5 -0.5
+cushion 2.5 -0.5 2.5 -1.5
+cushion 2.5 -1.5 1.5 -1.5
+cushion 1.5 -1.5 1.5 -0.5
+cushion 1.5 -0.5 1.9 -0.5
+cushion 1.9 -0.5 1.9 1.3
+cushion 1.9 1.3 -1.9 1.3
+cushion -2.1 1.5 2.1 1.5
+start -2.32 -0.64
+cup 2.32 -0.64
+end_hole

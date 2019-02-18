@@ -1,0 +1,74 @@
+Easy Course I
+begin_hole
+Straight
+cushion 0.6 1.2 0.6 -1.2
+cushion 0.6 -1.2 -0.6 -1.2
+cushion -0.6 -1.2 -0.6 1.2
+cushion -0.6 1.2 0.6 1.2
+cup 0 -1.1
+start 0 0.5
+end_hole
+begin_hole
+Wide to Narrow
+cushion -0.6 1.0 -0.1 1.3
+cushion -0.1 1.3 0.1 1.3
+cushion 0.1 1.3 0.6 1
+cushion 0.6 1 0.6 -1
+cushion 0.6 -1 0.5 -1
+cushion 0.5 -1 0.5 -1.3
+cushion 0.5 -1.3 0.3 -1.3
+cushion 0.3 -1.3 0.3 -1.0
+cushion 0.3 -1.0 -0.6 -1.0
+cushion -0.6 -1.0 -0.6 1.0
+cup 0.4 -1.1
+start 0 1.1
+end_hole
+begin_hole
+Small and Big I
+cushion -0.2 1.2 0.2 1.2
+cushion 0.2 1.2 0.2 0.8
+cushion 0.2 0.8 0.1 0.8
+cushion 0.1 0.8 0.1 -0.6
+cushion 0.1 -0.6 0.3 -0.6
+cushion 0.3 -0.6 0.3 -1.2
+cushion 0.3 -1.2 -0.3 -1.2
+cushion -0.3 -1.2 -0.3 -0.6
+cushion -0.3 -0.6 -0.1 -0.6
+cushion -0.1 -0.6 -0.1 0.8
+cushion -0.1 0.8 -0.2 0.8
+cushion -0.2 0.8 -0.2 1.2
+cup -0.2 -0.8
+start 0 1.1
+end_hole
+begin_hole
+Strait with Kink
+cushion -0.4 1.2 0.4 1.2
+cushion 0.4 1.2 0.4 0.6
+cushion 0.4 0.6 0.6 0
+cushion 0.6 0 0.4 -0.6
+cushion 0.4 -0.6 0.4 -1.2
+cushion 0.4 -1.2 -0.4 -1.2
+cushion -0.4 -1.2 -0.4 -0.6
+cushion -0.4 -0.6 -0.6 0
+cushion -0.6 0 -0.4 0.6
+cushion -0.4 0.6 -0.4 1.2
+cup 0 -1.1
+start 0 1.1
+end_hole
+begin_hole
+Small and Big II
+cushion -0.2 1.2 0.2 1.2
+cushion 0.2 1.2 0.2 0.8
+cushion 0.2 0.8 0.1 0.8
+cushion 0.1 0.8 0.1 -0.6
+cushion 0.1 -0.6 0.3 -0.6
+cushion 0.3 -0.6 0.3 -1.2
+cushion 0.3 -1.2 -0.3 -1.2
+cushion -0.3 -1.2 -0.3 -0.6
+cushion -0.3 -0.6 -0.1 -0.6
+cushion -0.1 -0.6 -0.1 0.8
+cushion -0.1 0.8 -0.2 0.8
+cushion -0.2 0.8 -0.2 1.2
+cup 0.2 -0.8
+start 0.1 1.1
+end_hole
